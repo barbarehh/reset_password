@@ -78,15 +78,14 @@
                 android:textSize="20sp"
                 android:backgroundTint="#FBED6C"/>
         </LinearLayout>
-        <EditText
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"/>
+
         <Button
             android:id="@+id/button"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Done"
             android:textColor="#E8FF00"
+            android:layout_marginVertical="40dp"
             android:backgroundTint="#1B9320"
             android:textSize="30sp"/>
 
